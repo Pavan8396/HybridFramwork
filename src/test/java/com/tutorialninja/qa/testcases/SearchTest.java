@@ -10,7 +10,6 @@ import com.tutorialninja.qa.baseclass.Base;
 import com.tutorialninja.qa.pageobjects.HomePage;
 import com.tutorialninja.qa.pageobjects.SearchResultPage;
 
-//Again test to github
 
 public class SearchTest extends Base {
 
